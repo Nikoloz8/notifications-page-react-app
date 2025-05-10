@@ -1,0 +1,895 @@
+{
+  "notifications": [
+    {
+      "id": 101,
+      "type": "reaction",
+      "name": "Mark Webber",
+      "action": "reacted to your recent post",
+      "post": "My first tournament today!",
+      "timeAgo": "1m ago",
+      "image": "/images/avatar-mark-webber.webp"
+    },
+    {
+      "id": 102,
+      "type": "follow",
+      "name": "Angela Gray",
+      "action": "followed you",
+      "timeAgo": "5m ago",
+      "image": "/images/avatar-angela-gray.webp"
+    },
+    {
+      "id": 103,
+      "type": "groupJoin",
+      "name": "Jacob Thompson",
+      "action": "has joined your group",
+      "post": "Chess Club",
+      "timeAgo": "1 day ago",
+      "image": "/images/avatar-jacob-thompson.webp"
+    },
+    {
+      "id": 104,
+      "type": "message",
+      "name": "Rizky Hasanuddin",
+      "action": "sent you a private message",
+      "message": "Hello, thanks for setting up the Chess Club. I’ve been a member for a few weeks now and I’m already having lots of fun and improving my game.",
+      "timeAgo": "5 days ago",
+      "image": "/images/avatar-rizky-hasanuddin.webp"
+    },
+    {
+      "id": 105,
+      "type": "comment",
+      "name": "Kimberly Smith",
+      "action": "commented on your picture",
+      "timeAgo": "1 week ago",
+      "image": "/images/avatar-kimberly-smith.webp",
+      "comentImage": "/images/image-chess.webp"
+    },
+    {
+      "id": 106,
+      "type": "reaction",
+      "name": "Nathan Peterson",
+      "action": "reacted to your recent post",
+      "post": "5 end-game strategies to increase your win rate",
+      "timeAgo": "2 weeks ago",
+      "image": "/images/avatar-nathan-peterson.webp"
+    },
+    {
+      "id": 107,
+      "type": "groupLeave",
+      "name": "Anna Kim",
+      "action": "left the group",
+      "post": "Chess Club",
+      "timeAgo": "2 weeks ago",
+      "image": "/images/avatar-anna-kim.webp"
+    },
+    {
+      "id": 108,
+      "type": "reaction",
+      "name": "Mark Webber",
+      "action": "reacted to your recent post",
+      "post": "My first tournament today!",
+      "timeAgo": "1m ago",
+      "image": "/images/avatar-mark-webber.webp"
+    },
+    {
+      "id": 109,
+      "type": "follow",
+      "name": "Angela Gray",
+      "action": "followed you",
+      "timeAgo": "5m ago",
+      "image": "/images/avatar-angela-gray.webp"
+    },
+    {
+      "id": 110,
+      "type": "groupJoin",
+      "name": "Jacob Thompson",
+      "action": "has joined your group",
+      "post": "Chess Club",
+      "timeAgo": "1 day ago",
+      "image": "/images/avatar-jacob-thompson.webp"
+    },
+    {
+      "id": 111,
+      "type": "message",
+      "name": "Rizky Hasanuddin",
+      "action": "sent you a private message",
+      "message": "Hello, thanks for setting up the Chess Club. I’ve been a member for a few weeks now and I’m already having lots of fun and improving my game.",
+      "timeAgo": "5 days ago",
+      "image": "/images/avatar-rizky-hasanuddin.webp"
+    },
+    {
+      "id": 112,
+      "type": "comment",
+      "name": "Kimberly Smith",
+      "action": "commented on your picture",
+      "timeAgo": "1 week ago",
+      "image": "/images/avatar-kimberly-smith.webp",
+      "comentImage": "/images/image-chess.webp"
+    },
+    {
+      "id": 113,
+      "type": "reaction",
+      "name": "Nathan Peterson",
+      "action": "reacted to your recent post",
+      "post": "5 end-game strategies to increase your win rate",
+      "timeAgo": "2 weeks ago",
+      "image": "/images/avatar-nathan-peterson.webp"
+    },
+    {
+      "id": 114,
+      "type": "groupLeave",
+      "name": "Anna Kim",
+      "action": "left the group",
+      "post": "Chess Club",
+      "timeAgo": "2 weeks ago",
+      "image": "/images/avatar-anna-kim.webp"
+    },
+    {
+      "id": 115,
+      "type": "reaction",
+      "name": "Mark Webber",
+      "action": "reacted to your recent post",
+      "post": "My first tournament today!",
+      "timeAgo": "1m ago",
+      "image": "/images/avatar-mark-webber.webp"
+    },
+    {
+      "id": 116,
+      "type": "follow",
+      "name": "Angela Gray",
+      "action": "followed you",
+      "timeAgo": "5m ago",
+      "image": "/images/avatar-angela-gray.webp"
+    },
+    {
+      "id": 117,
+      "type": "groupJoin",
+      "name": "Jacob Thompson",
+      "action": "has joined your group",
+      "post": "Chess Club",
+      "timeAgo": "1 day ago",
+      "image": "/images/avatar-jacob-thompson.webp"
+    },
+    {
+      "id": 118,
+      "type": "message",
+      "name": "Rizky Hasanuddin",
+      "action": "sent you a private message",
+      "message": "Hello, thanks for setting up the Chess Club. I’ve been a member for a few weeks now and I’m already having lots of fun and improving my game.",
+      "timeAgo": "5 days ago",
+      "image": "/images/avatar-rizky-hasanuddin.webp"
+    },
+    {
+      "id": 119,
+      "type": "comment",
+      "name": "Kimberly Smith",
+      "action": "commented on your picture",
+      "timeAgo": "1 week ago",
+      "image": "/images/avatar-kimberly-smith.webp",
+      "comentImage": "/images/image-chess.webp"
+    },
+    {
+      "id": 120,
+      "type": "reaction",
+      "name": "Nathan Peterson",
+      "action": "reacted to your recent post",
+      "post": "5 end-game strategies to increase your win rate",
+      "timeAgo": "2 weeks ago",
+      "image": "/images/avatar-nathan-peterson.webp"
+    },
+    {
+      "id": 121,
+      "type": "reaction",
+      "name": "Mark Webber",
+      "action": "reacted to your recent post",
+      "post": "My first tournament today!",
+      "timeAgo": "1m ago",
+      "image": "/images/avatar-mark-webber.webp"
+    },
+    {
+      "id": 122,
+      "type": "follow",
+      "name": "Angela Gray",
+      "action": "followed you",
+      "timeAgo": "5m ago",
+      "image": "/images/avatar-angela-gray.webp"
+    },
+    {
+      "id": 123,
+      "type": "groupJoin",
+      "name": "Jacob Thompson",
+      "action": "has joined your group",
+      "post": "Chess Club",
+      "timeAgo": "1 day ago",
+      "image": "/images/avatar-jacob-thompson.webp"
+    },
+    {
+      "id": 124,
+      "type": "message",
+      "name": "Rizky Hasanuddin",
+      "action": "sent you a private message",
+      "message": "Hello, thanks for setting up the Chess Club. I’ve been a member for a few weeks now and I’m already having lots of fun and improving my game.",
+      "timeAgo": "5 days ago",
+      "image": "/images/avatar-rizky-hasanuddin.webp"
+    },
+    {
+      "id": 125,
+      "type": "comment",
+      "name": "Kimberly Smith",
+      "action": "commented on your picture",
+      "timeAgo": "1 week ago",
+      "image": "/images/avatar-kimberly-smith.webp",
+      "comentImage": "/images/image-chess.webp"
+    },
+    {
+      "id": 126,
+      "type": "reaction",
+      "name": "Nathan Peterson",
+      "action": "reacted to your recent post",
+      "post": "5 end-game strategies to increase your win rate",
+      "timeAgo": "2 weeks ago",
+      "image": "/images/avatar-nathan-peterson.webp"
+    },
+    {
+      "id": 127,
+      "type": "groupLeave",
+      "name": "Anna Kim",
+      "action": "left the group",
+      "post": "Chess Club",
+      "timeAgo": "2 weeks ago",
+      "image": "/images/avatar-anna-kim.webp"
+    },
+    {
+      "id": 128,
+      "type": "reaction",
+      "name": "Mark Webber",
+      "action": "reacted to your recent post",
+      "post": "My first tournament today!",
+      "timeAgo": "1m ago",
+      "image": "/images/avatar-mark-webber.webp"
+    },
+    {
+      "id": 129,
+      "type": "follow",
+      "name": "Angela Gray",
+      "action": "followed you",
+      "timeAgo": "5m ago",
+      "image": "/images/avatar-angela-gray.webp"
+    },
+    {
+      "id": 130,
+      "type": "groupJoin",
+      "name": "Jacob Thompson",
+      "action": "has joined your group",
+      "post": "Chess Club",
+      "timeAgo": "1 day ago",
+      "image": "/images/avatar-jacob-thompson.webp"
+    },
+    {
+      "id": 131,
+      "type": "message",
+      "name": "Rizky Hasanuddin",
+      "action": "sent you a private message",
+      "message": "Hello, thanks for setting up the Chess Club. I’ve been a member for a few weeks now and I’m already having lots of fun and improving my game.",
+      "timeAgo": "5 days ago",
+      "image": "/images/avatar-rizky-hasanuddin.webp"
+    },
+    {
+      "id": 132,
+      "type": "comment",
+      "name": "Kimberly Smith",
+      "action": "commented on your picture",
+      "timeAgo": "1 week ago",
+      "image": "/images/avatar-kimberly-smith.webp",
+      "comentImage": "/images/image-chess.webp"
+    },
+    {
+      "id": 133,
+      "type": "reaction",
+      "name": "Nathan Peterson",
+      "action": "reacted to your recent post",
+      "post": "5 end-game strategies to increase your win rate",
+      "timeAgo": "2 weeks ago",
+      "image": "/images/avatar-nathan-peterson.webp"
+    },
+    {
+      "id": 134,
+      "type": "groupLeave",
+      "name": "Anna Kim",
+      "action": "left the group",
+      "post": "Chess Club",
+      "timeAgo": "2 weeks ago",
+      "image": "/images/avatar-anna-kim.webp"
+    },
+    {
+      "id": 135,
+      "type": "reaction",
+      "name": "Mark Webber",
+      "action": "reacted to your recent post",
+      "post": "My first tournament today!",
+      "timeAgo": "1m ago",
+      "image": "/images/avatar-mark-webber.webp"
+    },
+    {
+      "id": 136,
+      "type": "follow",
+      "name": "Angela Gray",
+      "action": "followed you",
+      "timeAgo": "5m ago",
+      "image": "/images/avatar-angela-gray.webp"
+    },
+    {
+      "id": 137,
+      "type": "groupJoin",
+      "name": "Jacob Thompson",
+      "action": "has joined your group",
+      "post": "Chess Club",
+      "timeAgo": "1 day ago",
+      "image": "/images/avatar-jacob-thompson.webp"
+    },
+    {
+      "id": 138,
+      "type": "message",
+      "name": "Rizky Hasanuddin",
+      "action": "sent you a private message",
+      "message": "Hello, thanks for setting up the Chess Club. I’ve been a member for a few weeks now and I’m already having lots of fun and improving my game.",
+      "timeAgo": "5 days ago",
+      "image": "/images/avatar-rizky-hasanuddin.webp"
+    },
+    {
+      "id": 139,
+      "type": "comment",
+      "name": "Kimberly Smith",
+      "action": "commented on your picture",
+      "timeAgo": "1 week ago",
+      "image": "/images/avatar-kimberly-smith.webp",
+      "comentImage": "/images/image-chess.webp"
+    },
+    {
+      "id": 140,
+      "type": "reaction",
+      "name": "Nathan Peterson",
+      "action": "reacted to your recent post",
+      "post": "5 end-game strategies to increase your win rate",
+      "timeAgo": "2 weeks ago",
+      "image": "/images/avatar-nathan-peterson.webp"
+    },
+    {
+      "id": 141,
+      "type": "reaction",
+      "name": "Mark Webber",
+      "action": "reacted to your recent post",
+      "post": "My first tournament today!",
+      "timeAgo": "1m ago",
+      "image": "/images/avatar-mark-webber.webp"
+    },
+    {
+      "id": 142,
+      "type": "follow",
+      "name": "Angela Gray",
+      "action": "followed you",
+      "timeAgo": "5m ago",
+      "image": "/images/avatar-angela-gray.webp"
+    },
+    {
+      "id": 143,
+      "type": "groupJoin",
+      "name": "Jacob Thompson",
+      "action": "has joined your group",
+      "post": "Chess Club",
+      "timeAgo": "1 day ago",
+      "image": "/images/avatar-jacob-thompson.webp"
+    },
+    {
+      "id": 144,
+      "type": "message",
+      "name": "Rizky Hasanuddin",
+      "action": "sent you a private message",
+      "message": "Hello, thanks for setting up the Chess Club. I’ve been a member for a few weeks now and I’m already having lots of fun and improving my game.",
+      "timeAgo": "5 days ago",
+      "image": "/images/avatar-rizky-hasanuddin.webp"
+    },
+    {
+      "id": 145,
+      "type": "comment",
+      "name": "Kimberly Smith",
+      "action": "commented on your picture",
+      "timeAgo": "1 week ago",
+      "image": "/images/avatar-kimberly-smith.webp",
+      "comentImage": "/images/image-chess.webp"
+    },
+    {
+      "id": 146,
+      "type": "reaction",
+      "name": "Nathan Peterson",
+      "action": "reacted to your recent post",
+      "post": "5 end-game strategies to increase your win rate",
+      "timeAgo": "2 weeks ago",
+      "image": "/images/avatar-nathan-peterson.webp"
+    },
+    {
+      "id": 147,
+      "type": "groupLeave",
+      "name": "Anna Kim",
+      "action": "left the group",
+      "post": "Chess Club",
+      "timeAgo": "2 weeks ago",
+      "image": "/images/avatar-anna-kim.webp"
+    },
+    {
+      "id": 148,
+      "type": "reaction",
+      "name": "Mark Webber",
+      "action": "reacted to your recent post",
+      "post": "My first tournament today!",
+      "timeAgo": "1m ago",
+      "image": "/images/avatar-mark-webber.webp"
+    },
+    {
+      "id": 149,
+      "type": "follow",
+      "name": "Angela Gray",
+      "action": "followed you",
+      "timeAgo": "5m ago",
+      "image": "/images/avatar-angela-gray.webp"
+    },
+    {
+      "id": 150,
+      "type": "groupJoin",
+      "name": "Jacob Thompson",
+      "action": "has joined your group",
+      "post": "Chess Club",
+      "timeAgo": "1 day ago",
+      "image": "/images/avatar-jacob-thompson.webp"
+    },
+    {
+      "id": 151,
+      "type": "message",
+      "name": "Rizky Hasanuddin",
+      "action": "sent you a private message",
+      "message": "Hello, thanks for setting up the Chess Club. I’ve been a member for a few weeks now and I’m already having lots of fun and improving my game.",
+      "timeAgo": "5 days ago",
+      "image": "/images/avatar-rizky-hasanuddin.webp"
+    },
+    {
+      "id": 152,
+      "type": "comment",
+      "name": "Kimberly Smith",
+      "action": "commented on your picture",
+      "timeAgo": "1 week ago",
+      "image": "/images/avatar-kimberly-smith.webp",
+      "comentImage": "/images/image-chess.webp"
+    },
+    {
+      "id": 153,
+      "type": "reaction",
+      "name": "Nathan Peterson",
+      "action": "reacted to your recent post",
+      "post": "5 end-game strategies to increase your win rate",
+      "timeAgo": "2 weeks ago",
+      "image": "/images/avatar-nathan-peterson.webp"
+    },
+    {
+      "id": 154,
+      "type": "groupLeave",
+      "name": "Anna Kim",
+      "action": "left the group",
+      "post": "Chess Club",
+      "timeAgo": "2 weeks ago",
+      "image": "/images/avatar-anna-kim.webp"
+    },
+    {
+      "id": 155,
+      "type": "reaction",
+      "name": "Mark Webber",
+      "action": "reacted to your recent post",
+      "post": "My first tournament today!",
+      "timeAgo": "1m ago",
+      "image": "/images/avatar-mark-webber.webp"
+    },
+    {
+      "id": 156,
+      "type": "follow",
+      "name": "Angela Gray",
+      "action": "followed you",
+      "timeAgo": "5m ago",
+      "image": "/images/avatar-angela-gray.webp"
+    },
+    {
+      "id": 157,
+      "type": "groupJoin",
+      "name": "Jacob Thompson",
+      "action": "has joined your group",
+      "post": "Chess Club",
+      "timeAgo": "1 day ago",
+      "image": "/images/avatar-jacob-thompson.webp"
+    },
+    {
+      "id": 158,
+      "type": "message",
+      "name": "Rizky Hasanuddin",
+      "action": "sent you a private message",
+      "message": "Hello, thanks for setting up the Chess Club. I’ve been a member for a few weeks now and I’m already having lots of fun and improving my game.",
+      "timeAgo": "5 days ago",
+      "image": "/images/avatar-rizky-hasanuddin.webp"
+    },
+    {
+      "id": 159,
+      "type": "comment",
+      "name": "Kimberly Smith",
+      "action": "commented on your picture",
+      "timeAgo": "1 week ago",
+      "image": "/images/avatar-kimberly-smith.webp",
+      "comentImage": "/images/image-chess.webp"
+    },
+    {
+      "id": 160,
+      "type": "reaction",
+      "name": "Nathan Peterson",
+      "action": "reacted to your recent post",
+      "post": "5 end-game strategies to increase your win rate",
+      "timeAgo": "2 weeks ago",
+      "image": "/images/avatar-nathan-peterson.webp"
+    },
+    {
+      "id": 161,
+      "type": "message",
+      "name": "Samantha Oliver",
+      "action": "sent you a private message",
+      "message": "Are you free this weekend for a chess match? I’ve been practicing a lot and would love to play against you.",
+      "timeAgo": "2 hours ago",
+      "image": "/images/avatar-samantha-oliver.webp"
+    },
+    {
+      "id": 162,
+      "type": "comment",
+      "name": "James Anderson",
+      "action": "commented on your post",
+      "timeAgo": "1 day ago",
+      "image": "/images/avatar-james-anderson.webp",
+      "comentImage": "/images/image-chess-2.webp"
+    },
+    {
+      "id": 163,
+      "type": "reaction",
+      "name": "Emily Young",
+      "action": "reacted to your recent post",
+      "post": "Tips for mastering openings",
+      "timeAgo": "1 day ago",
+      "image": "/images/avatar-emily-young.webp"
+    },
+    {
+      "id": 164,
+      "type": "groupJoin",
+      "name": "Ethan Harris",
+      "action": "joined the group",
+      "post": "Chess Tactics",
+      "timeAgo": "3 days ago",
+      "image": "/images/avatar-ethan-harris.webp"
+    },
+    {
+      "id": 165,
+      "type": "message",
+      "name": "Lucas King",
+      "action": "sent you a private message",
+      "message": "I saw you posted a new strategy on checkmates. I’d love to hear more details about it.",
+      "timeAgo": "5 hours ago",
+      "image": "/images/avatar-lucas-king.webp"
+    },
+    {
+      "id": 166,
+      "type": "comment",
+      "name": "Madison Scott",
+      "action": "commented on your post",
+      "timeAgo": "4 days ago",
+      "image": "/images/avatar-madison-scott.webp",
+      "comentImage": "/images/image-chess-3.webp"
+    },
+    {
+      "id": 167,
+      "type": "reaction",
+      "name": "Aiden Taylor",
+      "action": "reacted to your recent post",
+      "post": "Chess board setup for beginners",
+      "timeAgo": "1 week ago",
+      "image": "/images/avatar-aiden-taylor.webp"
+    },
+    {
+      "id": 168,
+      "type": "message",
+      "name": "Olivia Lewis",
+      "action": "sent you a private message",
+      "message": "Looking for some advice on my game. Can you help me out with my last match?",
+      "timeAgo": "2 days ago",
+      "image": "/images/avatar-olivia-lewis.webp"
+    },
+    {
+      "id": 169,
+      "type": "groupLeave",
+      "name": "Benjamin Walker",
+      "action": "left the group",
+      "post": "Advanced Chess Strategies",
+      "timeAgo": "1 week ago",
+      "image": "/images/avatar-benjamin-walker.webp"
+    },
+    {
+      "id": 170,
+      "type": "reaction",
+      "name": "Zoe Harris",
+      "action": "reacted to your post",
+      "post": "Advanced tactics for advanced players",
+      "timeAgo": "2 weeks ago",
+      "image": "/images/avatar-zoe-harris.webp"
+    },
+    {
+      "id": 171,
+      "type": "comment",
+      "name": "Jacob Green",
+      "action": "commented on your picture",
+      "timeAgo": "1 day ago",
+      "image": "/images/avatar-jacob-green.webp",
+      "comentImage": "/images/image-chess-4.webp"
+    },
+    {
+      "id": 172,
+      "type": "message",
+      "name": "Sophia White",
+      "action": "sent you a private message",
+      "message": "I noticed you’ve been posting some amazing gameplays. Would you be interested in collaborating for a chess event?",
+      "timeAgo": "3 days ago",
+      "image": "/images/avatar-sophia-white.webp"
+    },
+    {
+      "id": 173,
+      "type": "groupJoin",
+      "name": "Noah Jackson",
+      "action": "joined the group",
+      "post": "Chess Tips and Tricks",
+      "timeAgo": "5 days ago",
+      "image": "/images/avatar-noah-jackson.webp"
+    },
+    {
+      "id": 174,
+      "type": "reaction",
+      "name": "Chloe Hall",
+      "action": "reacted to your post",
+      "post": "How to improve your chess opening moves",
+      "timeAgo": "3 days ago",
+      "image": "/images/avatar-chloe-hall.webp"
+    },
+    {
+      "id": 175,
+      "type": "message",
+      "name": "Ella Nelson",
+      "action": "sent you a private message",
+      "message": "I saw your post about chess puzzles. Can you recommend some good resources for solving them?",
+      "timeAgo": "6 hours ago",
+      "image": "/images/avatar-ella-nelson.webp"
+    },
+    {
+      "id": 176,
+      "type": "comment",
+      "name": "Mason Carter",
+      "action": "commented on your post",
+      "timeAgo": "1 week ago",
+      "image": "/images/avatar-mason-carter.webp",
+      "comentImage": "/images/image-chess-5.webp"
+    },
+    {
+      "id": 177,
+      "type": "reaction",
+      "name": "Lily Mitchell",
+      "action": "reacted to your recent post",
+      "post": "Endgame strategies for advanced players",
+      "timeAgo": "1 week ago",
+      "image": "/images/avatar-lily-mitchell.webp"
+    },
+    {
+      "id": 178,
+      "type": "message",
+      "name": "Oliver King",
+      "action": "sent you a private message",
+      "message": "Hey, are you available for a chess tournament this weekend?",
+      "timeAgo": "3 days ago",
+      "image": "/images/avatar-oliver-king.webp"
+    },
+    {
+      "id": 179,
+      "type": "groupLeave",
+      "name": "Harper Turner",
+      "action": "left the group",
+      "post": "Chess Enthusiasts",
+      "timeAgo": "2 weeks ago",
+      "image": "/images/avatar-harper-turner.webp"
+    },
+    {
+      "id": 180,
+      "type": "reaction",
+      "name": "Amelia Scott",
+      "action": "reacted to your post",
+      "post": "How to avoid common mistakes in chess openings",
+      "timeAgo": "1 week ago",
+      "image": "/images/avatar-amelia-scott.webp"
+    },
+    {
+      "id": 181,
+      "type": "message",
+      "name": "Evan Wright",
+      "action": "sent you a private message",
+      "message": "Can you help me with a tricky chess puzzle I’ve been stuck on for a while?",
+      "timeAgo": "4 hours ago",
+      "image": "/images/avatar-evan-wright.webp"
+    },
+    {
+      "id": 182,
+      "type": "comment",
+      "name": "Jackson Roberts",
+      "action": "commented on your post",
+      "timeAgo": "2 days ago",
+      "image": "/images/avatar-jackson-roberts.webp",
+      "comentImage": "/images/image-chess-6.webp"
+    },
+    {
+      "id": 183,
+      "type": "reaction",
+      "name": "Scarlett Lee",
+      "action": "reacted to your post",
+      "post": "The best chess books for beginners",
+      "timeAgo": "1 week ago",
+      "image": "/images/avatar-scarlett-lee.webp"
+    },
+    {
+      "id": 184,
+      "type": "groupJoin",
+      "name": "Isaac Walker",
+      "action": "joined the group",
+      "post": "Chess Discussions",
+      "timeAgo": "1 day ago",
+      "image": "/images/avatar-isaac-walker.webp"
+    },
+    {
+      "id": 185,
+      "type": "message",
+      "name": "Avery Harris",
+      "action": "sent you a private message",
+      "message": "I heard you’re hosting a chess event soon. Can you share the details?",
+      "timeAgo": "3 days ago",
+      "image": "/images/avatar-avery-harris.webp"
+    },
+    {
+      "id": 186,
+      "type": "reaction",
+      "name": "Grace Moore",
+      "action": "reacted to your post",
+      "post": "Best chess apps to improve your skills",
+      "timeAgo": "2 days ago",
+      "image": "/images/avatar-grace-moore.webp"
+    },
+    {
+      "id": 187,
+      "type": "groupLeave",
+      "name": "Liam Brown",
+      "action": "left the group",
+      "post": "Chess Tips and Strategies",
+      "timeAgo": "1 week ago",
+      "image": "/images/avatar-liam-brown.webp"
+    },
+    {
+      "id": 188,
+      "type": "comment",
+      "name": "Evelyn Davis",
+      "action": "commented on your picture",
+      "timeAgo": "3 days ago",
+      "image": "/images/avatar-evelyn-davis.webp",
+      "comentImage": "/images/image-chess-7.webp"
+    },
+    {
+      "id": 189,
+      "type": "message",
+      "name": "Mila Martinez",
+      "action": "sent you a private message",
+      "message": "Let’s play a game this evening! I’ve been working on my opening strategy.",
+      "timeAgo": "5 hours ago",
+      "image": "/images/avatar-mila-martinez.webp"
+    },
+    {
+      "id": 190,
+      "type": "reaction",
+      "name": "Leo Allen",
+      "action": "reacted to your recent post",
+      "post": "Chess strategy for intermediate players",
+      "timeAgo": "1 day ago",
+      "image": "/images/avatar-leo-allen.webp"
+    },
+    {
+      "id": 191,
+      "type": "groupJoin",
+      "name": "Zara Carter",
+      "action": "joined the group",
+      "post": "Chess Puzzles and Challenges",
+      "timeAgo": "4 days ago",
+      "image": "/images/avatar-zara-carter.webp"
+    },
+    {
+      "id": 192,
+      "type": "message",
+      "name": "Nina Johnson",
+      "action": "sent you a private message",
+      "message": "I want to practice my middle game with you. Are you free this weekend?",
+      "timeAgo": "3 days ago",
+      "image": "/images/avatar-nina-johnson.webp"
+    },
+    {
+      "id": 193,
+      "type": "groupLeave",
+      "name": "Elliot Foster",
+      "action": "left the group",
+      "post": "Chess Mastermind",
+      "timeAgo": "2 weeks ago",
+      "image": "/images/avatar-elliot-foster.webp"
+    },
+    {
+      "id": 194,
+      "type": "reaction",
+      "name": "Harper Carter",
+      "action": "reacted to your post",
+      "post": "Understanding the importance of pawn structure",
+      "timeAgo": "1 week ago",
+      "image": "/images/avatar-harper-carter.webp"
+    },
+    {
+      "id": 195,
+      "type": "message",
+      "name": "Finn Taylor",
+      "action": "sent you a private message",
+      "message": "I have a few questions about endgame strategies. Can you help me?",
+      "timeAgo": "2 hours ago",
+      "image": "/images/avatar-finn-taylor.webp"
+    },
+    {
+      "id": 196,
+      "type": "comment",
+      "name": "Grace Williams",
+      "action": "commented on your post",
+      "timeAgo": "1 day ago",
+      "image": "/images/avatar-grace-williams.webp",
+      "comentImage": "/images/image-chess-8.webp"
+    },
+    {
+      "id": 197,
+      "type": "reaction",
+      "name": "Isaiah Clark",
+      "action": "reacted to your post",
+      "post": "Opening theory: Key moves to dominate your opponent",
+      "timeAgo": "5 hours ago",
+      "image": "/images/avatar-isaiah-clark.webp"
+    },
+    {
+      "id": 198,
+      "type": "message",
+      "name": "Aurora Taylor",
+      "action": "sent you a private message",
+      "message": "I’d love to challenge you to a game sometime soon. How about tomorrow?",
+      "timeAgo": "1 hour ago",
+      "image": "/images/avatar-aurora-taylor.webp"
+    },
+    {
+      "id": 199,
+      "type": "groupJoin",
+      "name": "Miles Carter",
+      "action": "joined the group",
+      "post": "Chess Beginners Hub",
+      "timeAgo": "4 days ago",
+      "image": "/images/avatar-miles-carter.webp"
+    },
+    {
+      "id": 200,
+      "type": "reaction",
+      "name": "Jackie Morgan",
+      "action": "reacted to your post",
+      "post": "Mastering the art of bluffs in chess",
+      "timeAgo": "1 week ago",
+      "image": "/images/avatar-jackie-morgan.webp"
+    }
+  ]
+}

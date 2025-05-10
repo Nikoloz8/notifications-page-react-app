@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Plus Jakarta Sans";
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  background-color: #F7FAFD;
+  padding: 100px 0 100px 0;
+}
+
+.container {
+  max-width: 730px;
+  padding: 30px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  box-shadow: 0 20px 60px 0 #4961A80D;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.notification {
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+  padding: 21px;
+  background-color: #F7FAFD;
+  border-radius: 8px;
+  width: 100%;
+  gap: 20px;
+}
+
+.avatar {
+  width: 45px;
+}
+
+.name {
+  color: #1C202B;
+  font-weight: 800;
+}
+
+.action {
+  color: #5E6778;
+  font-weight: 500;
+}
+
+.post {
+  color: #5E6778;
+  font-weight: 800;
+}
+
+h3,
+.time {
+  font-size: 1rem;
+  line-height: 150%;
+}
+
+h3 {
+  width: 100%;
+}
+
+.action-time {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.time {
+  font-weight: 500;
+  color: #939CAD;
+}
+
+.dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 100%;
+  background-color: #F65552;
+  display: inline-block;
+  margin-left: 8px;
+}
+
+.not-counts {
+  color: #1C202B;
+  font-weight: 800;
+  font-size: 1.5rem;
+  line-height: 100%;
+  display: flex;
+  gap: 16px;
+}
+
+.not-counts span {
+  background-color: #0A327B;
+  font-size: 1rem;
+  color: #ffffff;
+  width: 32px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+}
+
+section {
+  display: flex;
+  justify-content: space-between;
+}
+
+section button {
+  all: unset;
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 100%;
+  color: #5E6778;
+}
+
+.comment-picture {
+  width: 45px;
+}
+
+.action-time-comment-picture {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.message {
+  float: left;
+  width: 560px;
+  padding: 20px;
+  border: 1px solid #DDE7EE;
+  border-radius: 5px;
+}
+
+.avatar-actions {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  gap: 20px;
+}
