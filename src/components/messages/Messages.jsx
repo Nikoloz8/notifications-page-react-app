@@ -25,8 +25,7 @@ export default function Messages({ setReadIds, readIds }) {
                             </div>
                         </div>
                         {(e.type === "message") ? (<div className='message'>
-                            Hello, thanks for setting up the Chess Club. I’ve been a member for a few weeks now and I’m already having lots of fun and improving my game.
-                        </div>) : null}
+                            Hello, thanks for setting up the Chess Club. I’ve been a member for a few weeks now and I’m already having lots of fun and improving my game. </div>) : null}
                     </div>
                 </div>
             ))
