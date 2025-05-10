@@ -1,4 +1,5 @@
 import Data from "../../../data.json"
+import "./messages.css"
 
 export default function Messages({ setReadIds, readIds }) {
     let data = Data.notifications

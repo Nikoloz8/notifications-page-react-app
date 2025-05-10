@@ -26,64 +26,22 @@ body {
   gap: 20px;
 }
 
-.notification {
+section {
   display: flex;
-  align-items: flex-end;
-  flex-direction: column;
-  padding: 21px;
-  background-color: #F7FAFD;
-  border-radius: 8px;
-  width: 100%;
-  gap: 20px;
+  justify-content: space-between;
 }
 
-.avatar {
-  width: 45px;
-}
-
-.name {
-  color: #1C202B;
-  font-weight: 800;
-}
-
-.action {
-  color: #5E6778;
+section button {
+  all: unset;
+  cursor: pointer;
   font-weight: 500;
-}
-
-.post {
-  color: #5E6778;
-  font-weight: 800;
-}
-
-h3,
-.time {
   font-size: 1rem;
-  line-height: 150%;
+  line-height: 100%;
+  color: #5E6778;
 }
 
-h3 {
-  width: 100%;
-}
-
-.action-time {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.time {
-  font-weight: 500;
-  color: #939CAD;
-}
-
-.dot {
-  width: 8px;
-  height: 8px;
-  border-radius: 100%;
-  background-color: #F65552;
-  display: inline-block;
-  margin-left: 8px;
+section button:hover{
+  color: #0A327B;
 }
 
 .not-counts {
@@ -107,42 +65,18 @@ h3 {
   border-radius: 6px;
 }
 
-section {
-  display: flex;
-  justify-content: space-between;
-}
+@media screen and (max-width: 800px){
+  .container{
+    padding: 16px;
+  }
 
-section button {
-  all: unset;
-  cursor: pointer;
-  font-weight: 500;
-  font-size: 1rem;
-  line-height: 100%;
-  color: #5E6778;
-}
+  body{
+    padding: 0;
+  }
 
-.comment-picture {
-  width: 45px;
-}
+  .not-counts{
+    font-size: 1.25rem;
+  }
 
-.action-time-comment-picture {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  width: 100%;
-}
 
-.message {
-  float: left;
-  width: 560px;
-  padding: 20px;
-  border: 1px solid #DDE7EE;
-  border-radius: 5px;
-}
-
-.avatar-actions {
-  display: flex;
-  width: 100%;
-  align-items: center;
-  gap: 20px;
 }
